@@ -17,3 +17,7 @@ Personal Development:
 - Enhance collaboration and teamwork abilities
 - Stay updated with the latest industry trends
 - Build a strong professional network
+
+Additional Notes:
+- Working on Git and GitHub workflow skills
+- Learning version control best practices
