@@ -1,5 +1,5 @@
-Full Name: [Your Name Here]
-Student ID: [Your ID Here]
+Full Name: [Your Name]
+Student ID: [Your ID ]
 Section: [Your Section Here]
 Favorite Programming Language: Python
 
