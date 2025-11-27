@@ -1,0 +1,7 @@
+Full Name: [Your Name Here]
+Student ID: [Your ID Here]
+Section: [Your Section Here]
+Favorite Programming Language: Python
+
+Why Python?
+Python is my favorite programming language because of its simplicity, readability, and versatility. It's excellent for data science, web development, automation, and artificial intelligence projects.
